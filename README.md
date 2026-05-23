@@ -1,6 +1,6 @@
 # Hi, I'm Tomás
 
-Full Stack Developer focused on backend, system design, and production-grade software. I build end-to-end solutions - from requirements gathering and architecture to deployment, monitoring, and maintenance.
+Full Stack Developer focused on backend, system design, and production-grade software. I build end-to-end solutions from requirements gathering and architecture to deployment, monitoring, and maintenance.
 
 Currently exploring AI agents, RAG pipelines, LLM integrations, and workflow automation.
 
