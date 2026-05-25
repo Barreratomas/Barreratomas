@@ -1,8 +1,8 @@
 # Hi, I'm Tomás
 
-Full Stack Developer focused on backend, system design, and production-grade software. I build end-to-end solutions from requirements gathering and architecture to deployment, monitoring, and maintenance.
+Full Stack Developer focused on backend, system design and production-grade software. I build end-to-end solutions from requirements gathering and architecture to deployment, monitoring and maintenance.
 
-Currently exploring AI agents, RAG pipelines, LLM integrations, and workflow automation.
+Currently exploring AI agents, RAG pipelines, LLM integrations and workflow automation.
 
 ---
 
@@ -27,7 +27,7 @@ Currently exploring AI agents, RAG pipelines, LLM integrations, and workflow aut
 ## Work Experience
 
 **Full Stack Developer - Parador Atalaya** *(Oct 2025 – Present)*
-Took over a project with no version control, no docs, no containers, no tests, and blocking synchronous processes. Led a full technical overhaul: introduced Git, Docker, CI/CD pipelines, worker queues, and database transactions to stabilize and secure the system.
+Took over a project with no version control, no docs, no containers, no tests and blocking synchronous processes. Led a full technical overhaul: introduced Git, Docker, CI/CD pipelines, worker queues and database transactions to stabilize and secure the system.
 
 **Backend Developer - BotOS** *(Apr – Sep 2025)*
 Designed the architecture of a conversational automation platform from scratch. Multi-tenant backend, REST API, real-time WebSockets for concurrent clients, Redis for state management and message queues. Shipped to production with WhatsApp support.
