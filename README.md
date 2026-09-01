@@ -16,24 +16,26 @@ or eliminating a deadlock nobody knew was there.
 - Implement Text-to-SQL, schema linking and anti-prompt-injection defense in production
 - Fine-tune models with LoRA (mDeBERTa, multilingual classification)
 - Take AI solutions from prototype to production with FastAPI, Docker and CI/CD
+- Build multimodal agents over WhatsApp Business API with routing logic, 
+  caching and real action tools (send media, escalate, tag leads)
 
 ---
 
 ## Main Stack
 
-**AI / LLM:** LangGraph · LangChain · LangSmith · RAG · HITL · Text-to-SQL · Prompt Engineering
+**AI / LLM:** LangGraph, LangChain, LangSmith, RAG, HITL, Text-to-SQL, Prompt Engineering
 
-**ML / DL:** PyTorch · Transformers · LoRA · Scikit-learn · FAISS · Pandas · NumPy
+**ML / DL:** PyTorch, Transformers, LoRA, Scikit-learn, FAISS, Pandas, NumPy
 
-**Vector Stores:** Qdrant · FAISS
+**Vector Stores:** Qdrant, FAISS
 
-**LLM Providers:** OpenAI · Gemini · Groq · OpenRouter
+**LLM Providers:** OpenAI, Gemini, Groq, OpenRouter
 
-**Backend:** Python (FastAPI, Django) · Node.js (Express, NestJS) · Java (Spring Boot)
+**Backend:** Python (FastAPI, Django), Node.js (Express, NestJS), Java (Spring Boot)
 
-**Infra:** Docker · GitHub Actions · AWS · Render · Linux · Nginx
+**Infra:** Docker, GitHub Actions, AWS, Render, Linux, Nginx
 
-**Databases:** PostgreSQL · MySQL · SQL Server · MongoDB
+**Databases:** PostgreSQL, MySQL, SQL Server, MongoDB
 
 
 
