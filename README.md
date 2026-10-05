@@ -39,13 +39,11 @@ or eliminating a deadlock nobody knew was there.
 
 ## Selected work
 
-- **WhatsApp sales agent for an aesthetics business** (client project, private repo): durable queue,
+- [WhatsApp sales agent for an aesthetics business](https://github.com/Barreratomas/whatsapp-sales-agent-case-study) (client project, private repo): durable queue,
   4-layer LangGraph pipeline, 21 services, 1000+ tests, automated deploys with rollback
 - [Karlook](https://www.karlook.io/): real-time assignment engine for mobile car washes, Mercado Pago subscriptions
 - [EMACE](https://github.com/Barreratomas/EMACE): multi-tenant, hub-and-spoke multi-agent platform
   on LangGraph with hexagonal architecture
-- [S.P.C.H.](https://github.com/Barreratomas/horarios): Laravel + React platform that automates
-  commission and schedule assignment
 - [Fake News Detection](https://github.com/Barreratomas/fakenews): mDeBERTa v3 + LoRA classifier
   combined with RAG fact-checking
 
